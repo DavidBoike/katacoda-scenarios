@@ -1,6 +1,6 @@
 {
   "title": "NServiceBus Quick Start",
-  "description": "Temp description",
+  "description": "Getting started with NServiceBus",
   "details": {
     "steps": [
       {
@@ -21,7 +21,10 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
+    "uilayout": "editor-terminal",
+    "uisettings": "csharp",
+    "icon": "fa-csharp",
+    "uimessage1": "You're using NServiceBus on Bash!"
   },
   "backend": {
     "imageid": "c#"
